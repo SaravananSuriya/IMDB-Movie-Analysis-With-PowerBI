@@ -7,6 +7,8 @@ The project aim is to analyze the dataset using Power Bi, The dataset is related
 
 **Domain:** Cinema.
 
+**Dataset:** [Data Link](https://drive.google.com/file/d/1bXz_ksbuLRFP9wDZBE53MyeQi2Ko54PI/view)
+
 **Linkedin URL :** https://www.linkedin.com/in/saravanan-b-241468269/details/projects/
 
 **Problem statement:**
