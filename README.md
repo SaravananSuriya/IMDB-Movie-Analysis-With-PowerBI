@@ -3,9 +3,11 @@ The project aim is to analyze the dataset using Power Bi, The dataset is related
 
 **Project title:** IMDB Movie Analysis
 
-**Skills take away From This Project:** Python scripting, Data Wrangling, EDA, Model Building, Streamlit.
+**Skills take away From This Project:** Python scripting, Data Cleaning, EDA, Data Analysis, Power Bi.
 
 **Domain:** Cinema.
+
+**Linkedin URL :** https://www.linkedin.com/in/saravanan-b-241468269/details/projects/
 
 **Problem statement:**
 
